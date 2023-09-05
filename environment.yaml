@@ -4,7 +4,7 @@
 
 name: bf
 dependencies:
-  - python==3.9
+  - python==3.8
   - pip
   - pip:
     - .[docs]
